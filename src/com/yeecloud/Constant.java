@@ -1,0 +1,1 @@
+package com.yeecloud;public class Constant {	//public static final String BASE_URL = "http://sdk.mingcheer.com/";		public static final String BASE_URL = "http://192.168.1.101:8081/walker-web/";	}

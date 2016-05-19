@@ -1,0 +1,1 @@
+package com.yeecloud.pay;public abstract interface k{  public abstract void a(String paramString);  public abstract void a();}

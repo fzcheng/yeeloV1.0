@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mqhy_pay_title_head">鸣岐支付</string>
+    <string name="mqhy_pay_money">金额（元）：</string>
+    <string name="mqhy_pay_wares">商品名称：</string>
+    <string name="mqhy_pay_account">充值帐号：</string>
+    <string name="mqhy_pay_select_payway">选择支付方式</string>
+    <string name="mqhy_pay_card_payway">选择充值卡面额</string>
+    <string name="mqhy_pay_card_sn">序列号：</string>
+    <string name="mqhy_pay_card_password">密  码：</string>
+    <string name="mqhy_pay_neirong1">1.务必选择与您手中充值卡的一样面额</string>
+    <string name="mqhy_pay_neirong2">2.充值提交后需要10分钟的处理时间，请耐心等待</string>
+    <string name="mqhy_pay_neirong3">3.如遇问题，请咨询：QQ3215883439</string>
+    <string name="mqhy_pay_neirong4">如遇问题，请咨询：QQ3215883439</string>
+    <string name="mqhy_pay_new_recharge">立即充值</string>
+    <string name="mqhy_pay_card_sn_input">请输入充值卡序列号</string>
+    <string name="mqhy_pay_card_password_input">请输入充值卡密码</string>
+
+</resources>

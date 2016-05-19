@@ -1,0 +1,1 @@
+package com.yeecloud.pay;public abstract interface QueryPayResultListener{  public abstract void onResult(int paramInt);}

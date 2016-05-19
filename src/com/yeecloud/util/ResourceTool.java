@@ -1,0 +1,1 @@
+package com.yeecloud.util;import android.content.Context;public class ResourceTool{  public static int GetResourceId(Context paramContext, String name, String defType)  {    String str = paramContext.getPackageName();        int id = paramContext.getResources().getIdentifier(name, defType, str);        return id;  }}

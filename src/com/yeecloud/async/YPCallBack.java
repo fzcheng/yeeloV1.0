@@ -1,0 +1,1 @@
+package com.yeecloud.async;public abstract interface YPCallBack {	public abstract void done(YPResult paramResult);}

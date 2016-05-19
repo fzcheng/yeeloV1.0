@@ -1,0 +1,1 @@
+package com.yeecloud.a;import javax.net.ssl.HostnameVerifier;import javax.net.ssl.SSLSession;class D  implements HostnameVerifier{  public boolean verify(String paramString, SSLSession paramSSLSession)  {    return true;  }}
