@@ -1,4 +1,4 @@
-package com.yeegame.demo.wxapi;
+package com.magicbirds.master.wxapi;
 
 import android.os.Bundle;
 

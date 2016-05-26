@@ -10,10 +10,10 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.magicbirds.master.R;
 import com.yeecloud.pay.CallSdkListener;
 import com.yeecloud.pay.QueryPayResultListener;
 import com.yeecloud.pay.YEEPay;
-import com.yeegame.demo.R;
 
 public class MainActivity extends Activity {
 

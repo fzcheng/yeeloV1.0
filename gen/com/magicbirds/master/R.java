@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.yeegame.demo;
+package com.magicbirds.master;
 
 public final class R {
     public static final class attr {

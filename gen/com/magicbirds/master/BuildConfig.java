@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.yeegame.demo;
+package com.magicbirds.master;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
