@@ -18,6 +18,6 @@ public class WXPayEntryActivity extends WxPayActivity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		super.init("wx28e6aaa8d86aaa08");// 微信appID
+		super.init("wxd9c0c13bacc6d9b0");// 微信appID
 	}
 }

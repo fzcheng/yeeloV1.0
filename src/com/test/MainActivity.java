@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
 				extras.putString("cpOrderId", "cpOrderId"+new Random().nextInt(10000));//可选，CP订单编号，不重复
 				extras.putString("ext", "透传参数"+new Random().nextInt(100));//可选，透传参数，原样返回
 				extras.putInt("totalFee", 1);//必填，支付金额，单位分
-				extras.putString("wxappid", "wx28e6aaa8d86aaa08");//必填，微信APPID，不填则不启用微信支付
+				extras.putString("wxappid", "wxd9c0c13bacc6d9b0");//必填，微信APPID，不填则不启用微信支付
 				
 				YEEPay.getInstance().onCallSdk(appid, market, new CallSdkListener() {
 					
