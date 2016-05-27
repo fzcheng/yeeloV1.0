@@ -1,7 +1,8 @@
-package com.magicbirds.master.wxapi;
+package net.sourceforge.simcpux.wxapi;
 
 import android.os.Bundle;
 
+import com.yeecloud.Constant;
 import com.yeecloud.wx.WxPayActivity;
 
 /**
@@ -18,6 +19,6 @@ public class WXPayEntryActivity extends WxPayActivity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		super.init("wxd9c0c13bacc6d9b0");// 微信appID
+		super.init(Constant.WX_APP_ID);// 微信appID
 	}
 }
