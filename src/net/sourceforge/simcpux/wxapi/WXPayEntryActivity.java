@@ -1,4 +1,4 @@
-package com.magicbirds.master.wxapi;
+package net.sourceforge.simcpux.wxapi;
 
 import android.os.Bundle;
 
