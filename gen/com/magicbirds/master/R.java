@@ -21,51 +21,44 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
         /**  Default screen margins, per the Android Design guidelines. 
          */
-        public static final int mqhy_pay_head_title=0x7f050002;
-        public static final int mqhy_pay_title=0x7f050003;
-        public static final int mqhy_pay_title_tip=0x7f050004;
+        public static final int yee_pay_head_title=0x7f050002;
+        public static final int yee_pay_title=0x7f050003;
+        public static final int yee_pay_title_tip=0x7f050004;
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
-        public static final int mqhy_pay_alipay=0x7f020001;
-        public static final int mqhy_pay_back=0x7f020002;
-        public static final int mqhy_pay_bg=0x7f020003;
-        public static final int mqhy_pay_bottom=0x7f020004;
-        public static final int mqhy_pay_card_item=0x7f020005;
-        public static final int mqhy_pay_card_item_selected=0x7f020006;
-        public static final int mqhy_pay_card_pay=0x7f020007;
-        public static final int mqhy_pay_info=0x7f020008;
-        public static final int mqhy_pay_mobile=0x7f020009;
-        public static final int mqhy_pay_telecom=0x7f02000a;
-        public static final int mqhy_pay_unioncom=0x7f02000b;
-        public static final int mqhy_pay_unionpay=0x7f02000c;
-        public static final int mqhy_pay_wx=0x7f02000d;
-        public static final int mqhy_payway_line=0x7f02000e;
-        public static final int mqhy_select_payway=0x7f02000f;
+        public static final int yee_pay_alipay=0x7f020001;
+        public static final int yee_pay_back=0x7f020002;
+        public static final int yee_pay_bg=0x7f020003;
+        public static final int yee_pay_bottom=0x7f020004;
+        public static final int yee_pay_card_item=0x7f020005;
+        public static final int yee_pay_card_item_selected=0x7f020006;
+        public static final int yee_pay_card_pay=0x7f020007;
+        public static final int yee_pay_info=0x7f020008;
+        public static final int yee_pay_wx=0x7f020009;
+        public static final int yee_payway_line=0x7f02000a;
+        public static final int yee_select_payway=0x7f02000b;
     }
     public static final class id {
         public static final int button1=0x7f080001;
-        public static final int mqhyChinaMobilePayBtn=0x7f08000c;
-        public static final int mqhyChinaTelecomPayBtn=0x7f08000e;
-        public static final int mqhyChinaUnicomPayBtn=0x7f08000d;
-        public static final int mqhyPayAlipayBtn=0x7f08000b;
-        public static final int mqhyPayBackBtn=0x7f080003;
-        public static final int mqhyPayTitleHead=0x7f080004;
-        public static final int mqhyPayWxBtn=0x7f08000a;
-        public static final int mqhy_pay_account=0x7f080006;
-        public static final int mqhy_pay_head=0x7f080002;
-        public static final int mqhy_pay_money=0x7f080008;
-        public static final int mqhy_pay_select_payway=0x7f080009;
-        public static final int mqhy_pay_title=0x7f080005;
-        public static final int mqhy_pay_wares=0x7f080007;
-        public static final int notification_content=0x7f080010;
-        public static final int notification_img=0x7f08000f;
+        public static final int notification_content=0x7f080003;
+        public static final int notification_img=0x7f080002;
         public static final int textView1=0x7f080000;
+        public static final int yeePayAlipayBtn=0x7f08000d;
+        public static final int yeePayBackBtn=0x7f080005;
+        public static final int yeePayTitleHead=0x7f080006;
+        public static final int yeePayWxBtn=0x7f08000c;
+        public static final int yee_pay_account=0x7f080008;
+        public static final int yee_pay_head=0x7f080004;
+        public static final int yee_pay_money=0x7f08000a;
+        public static final int yee_pay_select_payway=0x7f08000b;
+        public static final int yee_pay_title=0x7f080007;
+        public static final int yee_pay_wares=0x7f080009;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int mqhy_pay_main=0x7f030001;
-        public static final int notification_message_pic=0x7f030002;
+        public static final int notification_message_pic=0x7f030001;
+        public static final int yee_pay_main=0x7f030002;
     }
     public static final class raw {
         public static final int opening_sound=0x7f040000;
@@ -74,20 +67,20 @@ public final class R {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
         public static final int hello_world=0x7f060002;
-        public static final int mqhy_pay_account=0x7f060006;
-        public static final int mqhy_pay_card_password=0x7f06000a;
-        public static final int mqhy_pay_card_password_input=0x7f060011;
-        public static final int mqhy_pay_card_payway=0x7f060008;
-        public static final int mqhy_pay_card_sn=0x7f060009;
-        public static final int mqhy_pay_card_sn_input=0x7f060010;
-        public static final int mqhy_pay_money=0x7f060004;
-        public static final int mqhy_pay_neirong1=0x7f06000b;
-        public static final int mqhy_pay_neirong2=0x7f06000c;
-        public static final int mqhy_pay_neirong3=0x7f06000d;
-        public static final int mqhy_pay_neirong4=0x7f06000e;
-        public static final int mqhy_pay_new_recharge=0x7f06000f;
-        public static final int mqhy_pay_select_payway=0x7f060007;
-        public static final int mqhy_pay_title_head=0x7f060003;
-        public static final int mqhy_pay_wares=0x7f060005;
+        public static final int yee_pay_account=0x7f060006;
+        public static final int yee_pay_card_password=0x7f06000a;
+        public static final int yee_pay_card_password_input=0x7f060011;
+        public static final int yee_pay_card_payway=0x7f060008;
+        public static final int yee_pay_card_sn=0x7f060009;
+        public static final int yee_pay_card_sn_input=0x7f060010;
+        public static final int yee_pay_money=0x7f060004;
+        public static final int yee_pay_neirong1=0x7f06000b;
+        public static final int yee_pay_neirong2=0x7f06000c;
+        public static final int yee_pay_neirong3=0x7f06000d;
+        public static final int yee_pay_neirong4=0x7f06000e;
+        public static final int yee_pay_new_recharge=0x7f06000f;
+        public static final int yee_pay_select_payway=0x7f060007;
+        public static final int yee_pay_title_head=0x7f060003;
+        public static final int yee_pay_wares=0x7f060005;
     }
 }
