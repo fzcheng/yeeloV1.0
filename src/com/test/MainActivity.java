@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.magicbirds.master.R;
-import com.yeecloud.Constant;
+import com.magicbirds.master.wxapi.GameConfig;
 import com.yeecloud.pay.CallSdkListener;
 import com.yeecloud.pay.QueryPayResultListener;
 import com.yeecloud.pay.YEEPay;
@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
 				extras.putString("ext", "透传参数"+new Random().nextInt(100));//可选，透传参数，原样返回
 				extras.putInt("totalFee", 1);//必填，支付金额，单位分
 				extras.putString("noitfy_url", "");//可选。服务器通知地址
-				extras.putString("wxappid", Constant.WX_APP_ID);//必填，微信APPID，不填则不启用微信支付
+				extras.putString("wxappid", GameConfig.WX_APP_ID);//必填，微信APPID，不填则不启用微信支付
 				
 				YEEPay.getInstance().onCallSdk(appid, market, new CallSdkListener() {
 					

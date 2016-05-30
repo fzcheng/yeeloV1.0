@@ -1,0 +1,1 @@
+package com.magicbirds.master.wxapi;import android.os.Bundle;import com.yeecloud.wx.WxPayActivity;public class WXPayEntryActivity extends WxPayActivity {	@Override	public void onCreate(Bundle savedInstanceState) {		super.onCreate(savedInstanceState);		super.init(GameConfig.WX_APP_ID);// 微信appID	}}

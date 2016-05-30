@@ -1,6 +1,5 @@
 
-bin/
-
+bin/*
 
 gen/net/sourceforge/simcpux/BuildConfig.java
 
@@ -9,3 +8,5 @@ gen/net/sourceforge/simcpux/BuildConfig.java
 gen/net/sourceforge/simcpux/R.java
 
 project.properties
+
+bin/classes/com/yeecloud/Constant.class

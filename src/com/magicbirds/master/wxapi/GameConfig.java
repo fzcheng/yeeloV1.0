@@ -1,0 +1,1 @@
+package com.magicbirds.master.wxapi;public class GameConfig {	public static final String WX_APP_ID = "wxd9c0c13bacc6d9b0";//shifu	//public static final String WX_APP_ID = "wxd930ea5d5a258f4f";	//public static final String WX_APP_ID = "wxb4ba3c02aa476ea1";}
