@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon May 30 12:03:12 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=yeelo1.0_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|yeelo1.0>~com/~magicbirds/;<po|yeelo1.0>~com/~test/;<po|yeelo1.0>~com/~yeecloud/~util/~.DS_Store;<po|yeelo1.0>~com/~yeecloud/~.DS_Store;<po|yeelo1.0>~com/~.DS_Store;<po|yeelo1.0>~.DS_Store;<jar|alipaysdk.jar>;<jar|libammsdk.jar>
+includes=
