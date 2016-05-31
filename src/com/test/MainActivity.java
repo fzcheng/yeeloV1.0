@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				final Bundle extras = new Bundle();
-				String appid = "mq152823349e387837";
+				String appid = "yl1464415098748";
 				String market = "401";
 				extras.putString("appid", appid);//必填，appid
 				extras.putString("market", market);//必填，渠道编号，默认400
