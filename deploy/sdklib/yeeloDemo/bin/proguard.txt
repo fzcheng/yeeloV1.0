@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:54
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.yee.test.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.yee.test.wxapi.WXPayEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.yeecloud.pay.YEEPayActivity { <init>(...); }
+
