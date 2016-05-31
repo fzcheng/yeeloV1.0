@@ -48,7 +48,7 @@ public class MainActivity extends Activity {
 					public void onResult(int sdkId) {
 						//Toast.makeText(MainActivity.this, String.valueOf(sdkId), Toast.LENGTH_SHORT).show();
 						switch (sdkId) {
-						case CallSdkListener.MQ_SDK:
+						case CallSdkListener.YEE_SDK:
 							YEEPay.getInstance().pay(MainActivity.this, extras);
 							break;
 						case CallSdkListener.MSDK:

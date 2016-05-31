@@ -1,1 +1,1 @@
-package com.yeecloud.pay;public abstract interface CallSdkListener{  public static final int PARAM_ERROR = 0;  public static final int UNKNOWN = -1;  public static final int MQ_SDK = 1;  public static final int MSDK = 2;  public abstract void onResult(int paramInt);}
+package com.yeecloud.pay;public abstract interface CallSdkListener{  public static final int PARAM_ERROR = 0;  public static final int UNKNOWN = -1;  public static final int YEE_SDK = 1;  public static final int MSDK = 2;  public abstract void onResult(int paramInt);}

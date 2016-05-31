@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="yee_pay_head_title">24dp</dimen>
+    <dimen name="yee_pay_title">20dp</dimen>
+    <dimen name="yee_pay_title_tip">14dp</dimen>
+</resources>
