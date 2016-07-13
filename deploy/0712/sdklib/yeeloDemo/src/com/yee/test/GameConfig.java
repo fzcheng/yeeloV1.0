@@ -1,1 +1,0 @@
-package com.yee.test;public class GameConfig {	public static final String WX_APP_ID = "wxd9c0c13bacc6d9b0";//test}
