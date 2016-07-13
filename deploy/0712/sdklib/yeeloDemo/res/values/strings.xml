@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SDK_PAY_DEMO</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="et_input_money">请输入支付金额</string>
+	<string name="et_input_order_des">订单描述如：精品玩具</string>
+</resources>
